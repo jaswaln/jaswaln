@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm neeraj jaswal</h1>
-<h3 align="center">A passionate automation framework developer from India</h3>
+<h3 align="center">A passionate automation framework developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswaln&label=Profile%20views&color=0e75b6&style=flat" alt="jaswaln" /> </p>
 
