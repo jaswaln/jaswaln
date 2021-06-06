@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hello, I'm Neeraj 🙋‍♂️</h1>
 <h2>💻👨‍💻Automation Framework Developer</h2>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswaln&label=Profile%20views&color=0e75b6&style=flat" alt="jaswaln" /> </p>
 
