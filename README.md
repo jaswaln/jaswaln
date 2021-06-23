@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Selenium, Cucumber BDD Framework, TestNG, Rest Assured**
 
+-  ⚡ I’m currently learning **Data Structure and Algorithm**.
+ 
+-  🎯 I’m focusing on **Design Patterns** .
+
 <h3> 📫 How to reach me:</h3>
 
 <a href="https://www.linkedin.com/in/neerajjaswal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
