@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ <a href="https://playwright.dev/" target="_blank"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://cucumber.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA09rH1gosCmcEkeK6JUQ0Yxh13qGTpXSQ6j9JjaqeqvZmU9HKjbu6riw9FSmytcvjK5k&usqp=CAU" alt="cucumber" width="40" height="40"/> </a>
