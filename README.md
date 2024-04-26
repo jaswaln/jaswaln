@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswaln&label=Profile%20views&color=0e75b6&style=flat" alt="jaswaln" /> </p>
 
-- 🌱 I’m currently learning **Cucumber Framework integrating with selenium , rest assured, ibatis**
+- 🌱 I’m currently learning **Playwright and mobile automation , Docker**
 
-- 💬 Ask me about **Selenium, Cucumber BDD Framework, TestNG, Rest Assured**
+- 💬 Ask me about **Selenium, Cucumber BDD Framework, TestNG, Rest Assured, Playwrigth**
 
 -  ⚡ I’m currently learning **Data Structure and Algorithm**.
  
